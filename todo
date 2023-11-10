@@ -1,0 +1,5 @@
+#go through files
+#convert with ffmpeg to mp3
+#print error if error while converting
+#transcribe with whisper
+#write to index.html
